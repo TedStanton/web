@@ -1,1 +1,6 @@
-Test
+# Comment requêter un site web et extraire du contenu via Python
+
+Ce micro projet a pour but de montrer qu'avec quelques notions d'informatique les possibilités de création sont assez
+importantes, pour cela nous allons requeter de façon brutale un site et extraire du contenu.
+Certaines fonctionnalités ont été réalisées avec des libraires déja existantes mais une grande partie peut être aisément revue
+
